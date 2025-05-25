@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @pau_cabrerah
+- 👋 Hi, I'm Pau Cabrera
 - 💻 Portfolio Site: https://paucabrera.com
